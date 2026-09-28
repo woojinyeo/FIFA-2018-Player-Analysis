@@ -110,20 +110,19 @@ This project demonstrates experience with:
 
 ### Player Development by Age
 
-![Overall Rating vs Age](images/rating-vs-age.png)
+![Overall Rating vs Age](images/Rating-vs-Age.png)
 
 ### Position Attribute Comparison
 
-![Position Comparison](images/position-comparison.png)
+![Position Comparison](images/Position-Comparison.png)
 
 ### Clubs With the Most High-Potential Players
 
-![Future Players Analysis](images/future-players.png)
+![Future Players Analysis](images/Future-Players.png)
 
 ### Average vs. Median Wage by Club
 
-![Club Wage Analysis](images/club-wages.png)
-> Note: Screenshot file names may need to be changed depending on the names of the images uploaded to this repository.
+![Club Wage Analysis](images/Club-Wages.png)
 
 ## Project Files
 
