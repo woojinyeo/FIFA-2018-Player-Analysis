@@ -108,16 +108,21 @@ This project demonstrates experience with:
 
 ## Dashboard Preview
 
-Below are screenshots from the completed Power BI report.
+### Player Development by Age
 
-### Report Page 1
+![Overall Rating vs Age](images/rating-vs-age.png)
 
-![FIFA 2018 Power BI Report](images/dashboard1.png)
+### Position Attribute Comparison
 
-### Report Page 2
+![Position Comparison](images/position-comparison.png)
 
-![FIFA 2018 Power BI Report](images/dashboard2.png)
+### Clubs With the Most High-Potential Players
 
+![Future Players Analysis](images/future-players.png)
+
+### Average vs. Median Wage by Club
+
+![Club Wage Analysis](images/club-wages.png)
 > Note: Screenshot file names may need to be changed depending on the names of the images uploaded to this repository.
 
 ## Project Files
